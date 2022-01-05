@@ -1,0 +1,44 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    ;
+}
+h1{
+    font-size: 70px;
+    ;
+}
+.tomato-color{
+    color: tomato;
+    ;
+}
+section{
+    display: flex;
+    align-items: center;
+    ;
+}
+.half{
+    width: 50%;
+    padding-left: 10%;
+    ;
+}
+.half img{
+    width: 70%;
+    ;
+}
+.top-heading-style{
+    border-left: 5px solid #ffa600;
+    padding-left: 10px;
+    ;
+}
+.button{
+    text-decoration: none;
+    font-weight: 700;
+    padding: 15px 35px;
+    background-color: #ffa3ff;
+    border-radius: 5px;
+    ;
+}
+.half p{
+    font-size: 25px;
+    ;
+}
