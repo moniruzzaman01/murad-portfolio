@@ -8,16 +8,29 @@ h1 {
     margin: 0;
     ;
 }
-p{
-    font-size: 30px;
+
+h2 {
+    font-size: 70px;
+    text-align: center;
     ;
 }
-.purple-color {
+
+h3 {
+    font-size: 40px;
+    ;
+}
+
+p {
+    font-size: 25px;
+    ;
+}
+
+.salmon-color {
     color: salmon;
     ;
 }
 
-section {
+.flex-section {
     display: flex;
     align-items: center;
     ;
@@ -25,7 +38,7 @@ section {
 
 .half-width {
     width: 50%;
-    margin-left: 8%;
+    margin-left: 10%;
     padding: 0;
     ;
 }
@@ -40,7 +53,8 @@ section {
     padding-left: 2%;
     ;
 }
-.link-btn{
+
+.link-btn {
     text-decoration: none;
     font-weight: 700;
     font-size: 20px;
@@ -49,4 +63,34 @@ section {
     border-radius: 10px;
     color: #000;
     ;
+}
+
+.mission-items {
+    margin-left: 10%;
+    margin-right: 10%;
+    ;
+}
+
+.mission-item {
+    width: 30%;
+    margin-left: 2%;
+    padding: 2%;
+    border-radius: 30px;
+}
+
+.mission-item img {
+    width: 40%;
+    ;
+}
+
+#mission {
+    background-color: #fffde4;
+}
+
+#vission {
+    background-color: #ebffd4;
+}
+
+#goals {
+    background-color: #ffebd8;
 }
