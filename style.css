@@ -11,7 +11,6 @@ h1 {
 
 h2 {
     font-size: 70px;
-    text-align: center;
     ;
 }
 
@@ -20,8 +19,24 @@ h3 {
     ;
 }
 
+h4 {
+    font-size: 55px;
+    margin: 0;
+    ;
+}
+
 p {
     font-size: 25px;
+    ;
+}
+
+section {
+    margin-bottom: 100px;
+    ;
+}
+
+.center-align {
+    text-align: center;
     ;
 }
 
@@ -93,4 +108,45 @@ p {
 
 #goals {
     background-color: #ffebd8;
+}
+
+.left {
+    width: 40%;
+    ;
+}
+
+.right {
+    width: 60%;
+    ;
+}
+
+.left img {
+    width: 80%;
+    ;
+}
+
+.services {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 100px;
+    ;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    height: 150px;
+    ;
+}
+
+footer p {
+    font-weight: 400;
+    font-size: 22px;
+    ;
+}
+
+footer h4 {
+    padding-top: 20px;
+    ;
 }
